@@ -2,6 +2,11 @@
 
 ## To run the server use this command in terminal
 
+1. Run the code in terminal to download all the package dependecies
+```
+npm i
+```
+2. Run the code in terminal to start the server
 ```
 node server.js
 ```
